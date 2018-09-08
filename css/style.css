@@ -1,3 +1,12 @@
-.buffer-top {
-    margin-top:200px;
+body {
+	background-color: #282828;
+}
+.area-title {
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.txt-1 {
+	color: #682fff;
+	font-family: 'Montserrat';
+	font-weight: bold;
 }
