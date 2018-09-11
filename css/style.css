@@ -2,15 +2,27 @@ body {
 	background-color: #282828;
 }
 .area-title {
-    padding-top: 200px;
-    padding-bottom: 200px;
+    padding-top: 360px;
+    padding-bottom: 400px;
 }
 .txt-1 {
 	color: #682fff;
 	font-family: 'Montserrat';
 	font-weight: bold;
 }
-
-.thumb-header {
-    color: #
+.thumb-entry {
+	color: #72a8ff;
+	font-family: Montserrat;
+	font-weight: bold;
+	text-align: center;
+	font-size: 40px;
+	padding-bottom: 25px;
+}
+.thumb-desc {
+	color: #eeeeee;
+	font-family: Chivo;
+	font-size: 24px;
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: center;
 }
