@@ -57,3 +57,13 @@ h2 {
 .navbar-default .navbar-nav > li > p {
 	color: #00D080;
 }
+
+.thumbnail {
+    background-color: #3A3A3A;
+    border-width: 10px 0px 0px 0px;
+    border-style: solid;
+    border-color: #2D2D2D;
+}
+
+
+
