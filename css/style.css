@@ -17,6 +17,7 @@ body {
 	text-align: center;
 	font-size: 40px;
 	padding-bottom: 25px;
+
 }
 .thumb-desc {
 	color: #eeeeee;
@@ -26,3 +27,25 @@ body {
 	margin-right: 20px;
 	text-align: center;
 }
+
+.thumb-container{
+	padding-top: 80px;
+	max-width: 1400px;
+}
+
+.about-title {
+	color: #ff5900;
+	font-family: Montserrat;
+	font-weight: bold;
+	text-align: left;
+	font-size: 40px;
+	padding-left: 20px;
+	padding-bottom: 15px;
+}
+.para-intro {
+	color: #ff5900;
+	text-decoration: underline;
+}
+
+
+
